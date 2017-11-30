@@ -1,0 +1,24 @@
+int x=0,a=1,c=2;
+
+if(condition;){
+statement;
+}
+else{
+statement;
+}
+if(condition;){
+statement;
+}
+for(int x=0; x>=10;x ++){
+statement;
+}
+while(condition){
+statement;
+}
+do{
+statement;
+}while(condition)
+
+int[]name = new int[8];
+name[index];
+binary[?]=rem;
